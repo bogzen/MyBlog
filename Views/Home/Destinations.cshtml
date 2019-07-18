@@ -1,0 +1,68 @@
+﻿@model IEnumerable<MyBlog.Models.Category>
+
+@{
+    ViewBag.Title = "Destinations";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="blog-container">
+    <div class="container-fluid">
+        <div class="row">
+            <!-- Post Item -->
+                <div class="col-sm-6 col-md-4 col-lg-3 blog-item-boxed">
+                    <div class="entry-media">
+                        <img src="~/images/img/europe.jpg" alt="blog image">
+                        <div class="entry-overlay"></div>
+                    </div>
+                    <div class="entry-info">                        
+                        <h3 class="post-title">
+                            <a href="~/Categories/Posts/1">Europe</a>
+                        </h3>
+                    </div>
+                </div>
+            <!-- Post Item -->
+            <div class="col-sm-6 col-md-4 col-lg-3 blog-item-boxed">
+                <div class="entry-media">
+                    <img src="~/images/img/africa.png" alt="blog image">
+                    <div class="entry-overlay"></div>
+                </div>
+                <div class="entry-info">
+                    <h3 class="post-title">
+                        <a href="~/Categories/Posts/2">Africa</a>
+                    </h3>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-4 col-lg-3 blog-item-boxed">
+                <div class="entry-media">
+                    <img src="~/images/img/america.jpg" alt="blog image">
+                    <div class="entry-overlay"></div>
+                </div>
+                <div class="entry-info">
+                    <h3 class="post-title">
+                        <a href="~/Categories/Posts/3">America</a>
+                    </h3>
+                </div>
+            </div>            
+            <div class="col-sm-6 col-md-4 col-lg-3 blog-item-boxed">
+                <div class="entry-media">
+                    <img src="~/images/img/asia.jpg" alt="blog image">
+                    <div class="entry-overlay"></div>
+                </div>
+                <div class="entry-info">
+                    <h3 class="post-title">
+                        <a href="~/Categories/Posts/4">Asia</a>
+                    </h3>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="post-navigation mv10">
+                    <div class="seperator with-colored size-small"><span></span></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

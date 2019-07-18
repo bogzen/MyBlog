@@ -1,0 +1,83 @@
+﻿@using MyBlog.Models
+
+@using (Html.BeginForm("_SideBar", "Home", FormMethod.Get))
+{
+    <div class="col-sm-4 sidebar">
+
+        <div class="widget about-author">
+            
+            <a href="~/Home/About">
+                <img src="~/images/me.jpg" alt="author image" />
+                <div class="overlay"></div>
+            </a>
+            <style>
+                .sidebarimage {
+                    background: rgba(240, 248, 255, 0.3);
+                    color: #b23763; /*Цвет фона*/
+                    padding: 5px; /*Цвет текста*/                    
+                    font-weight: bold;
+                    /*text-decoration: none;*/
+                }
+                </style>
+            
+                <div class="entry-info">
+                    @*<div class="seperator"><span></span></div>*@
+                    @*<h3><a href="~/Home/About">About Me</a></h3>*@                    
+                    <p>
+                        
+                        <div class="sidebarimage">
+                            @*<a href="~/Home/About">*@
+                                Travel Blogger from Ukraine, it's my passion to travel the world
+                            @*</a>*@
+                        </div>
+                            
+                    </p>                    
+                </div>
+         </div>
+        @*<div class="widget">t
+                <form class="search_form">
+                    <input type="text" name="2" placeholder="Search...">
+                    <button type="submit"><i class="fa fa-search"></i></button>
+                </form>
+            </div>*@
+        @*<div class="widget widget-subscribe">
+                <div class="entry-subscribe">
+                    <h2>Subscribe now for latest</h2>
+                    <h3>NEWS</h3>
+                    <div class="seperator"><span></span></div>
+                    <form>
+                        <input type="text" placeholder="Your E-mail">
+                        <button type="submit">Subscribe</button>
+                    </form>
+                </div>
+            </div>*@
+        <div class="widget">
+            <h5 class="widget-title"><span>Destinations</span></h5>
+            <ul>
+                <li><a href="~/Categories/Posts/1">Europe</a></li>
+                <li><a href="~/Categories/Posts/2">Africa</a></li>
+                <li><a href="~/Categories/Posts/3">America</a></li>
+                <li><a href="~/Categories/Posts/4">Asia</a></li>
+            </ul>
+        </div>
+        <div class="widget">
+            <h5 class="widget-title"><span>Travel tips</span></h5>
+            <ul>
+                <li><a href="~/Categories/Posts/5">Get inspired</a></li>
+                <li><a href="~/Categories/Posts/6">Planning a trip</a></li>
+                <li><a href="~/Categories/Posts/7">Cheap flights</a></li>
+                <li><a href="~/Categories/Posts/8">Accomodation</a></li>
+                <li><a href="~/Categories/Posts/9">Photography tips</a></li>
+            </ul>
+        </div>
+        <div class="widget">
+            <h5 class="widget-title"><span>Tag Cloud</span></h5>
+            <div class="widget-tags">
+                @foreach (var i in Tag.GetTags())
+                {
+                    <a href="~/Tags/Posts/@i.Id">@i.Name</a>
+                }
+            </div>
+        </div>
+    </div>
+}

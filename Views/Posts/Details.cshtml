@@ -1,0 +1,249 @@
+﻿@model MyBlog.Models.Post
+@using MyBlog.Models
+
+@{
+    ViewBag.Title = Model.Title;
+    ViewBag.Description = Model.Description;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    string tags = "";
+    foreach (var i in Model.Tags)
+    {
+        tags = tags + i.Name + ", ";
+    }
+    ViewBag.Keywords = tags;
+}
+
+<section class="section-content">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8 col-md-8">
+                <article class="blog-item blog-single">
+                    <div class="entry-date">
+                        <img src="~/images/svg/clock.svg" alt="clock icon" class="icon-clock">
+                        <span>@Model.PublishDate.ToShortDateString()  -  @Html.DisplayFor(model => model.Category.Title)</span>
+                    </div>
+                    <h1 class="post-title">
+                        @Html.DisplayFor(model => model.Title)
+                    </h1>
+                    <div class="entry-media">
+                        <a href="javascript:;" class="el-link">
+                            <img id="PlaceShowImage" src="~/PostsImage/@Model.Image" style="width:751px; height:auto" />
+
+                            <div class="entry-overlay"></div>
+                        </a>
+                    </div>
+                    <div class="entry-meta">
+                        <span>
+                            <img src="~/images/svg/heart.svg" alt="svg image">
+                        </span>
+                    </div>
+                    <div class="entry-excerpt" style="font-size:16px; text-align:justify">
+                        <p>
+                            @Html.Raw(Model.PostText)
+                        </p>
+                    </div>
+                    @*<div class="entry-social">
+                            <a href="javascript:;"><i class="fa fa-facebook"></i></a>
+                            <a href="javascript:;"><i class="fa fa-twitter"></i></a>
+                            <a href="javascript:;"><i class="fa fa-google-plus"></i></a>
+                        </div>*@
+                    <div class="seperator"><span></span></div>
+                    <br>
+                </article>
+                <div class="sidebar">
+                    <div class="widget" style="border: none">
+                        <h3 class="widget-title" style="font-size: 16px"><span>Tags</span></h3>
+                        <div class="widget-tags" style="padding-left: 0px">
+                            @foreach (var i in Model.Tags)
+                            {
+                                <a href="~/Tags/Posts/@i.Id">@i.Name</a>
+                                @*<a href="~/Tags/Posts/@i.Id">@i.Name |</a>*@
+                            }
+                        </div>
+                    </div>
+                </div>
+
+                @if (Request.IsAuthenticated)
+                {
+                    <p>
+                        @Html.ActionLink("Edit Post", "Edit", new { id = Model.Id }) |
+                        @Html.ActionLink("Delete Post", "Delete", new { id = Model.Id }) |
+                        @Html.ActionLink("Create New", "Create") |
+                        @Html.ActionLink("Back to List", "Index")
+                    </p>
+                }
+
+
+                @*COMMENTS BLOCK**@
+
+                <div id="comments" class="comments-area">
+                    <div class="comments-wrapper">
+                        <ol class="comment-list">
+
+                            @foreach (var item in Model.Comments)
+                            {
+                                <li>
+                                    @if (item.ParentComment_Id == null && item.ChildComments.Count == 0)
+                                    {
+                                        <article>
+                                            <div class="comment-avatar">
+                                                <img alt="Image" src="~/images/blog/comment1.png" class="avatar">
+                                            </div>
+                                            <div class="comment-body">
+                                                <div class="meta-data">
+
+                                                    <a href="#" class="comment-author">@item.Name</a>
+                                                    <span class="comment-date">@item.PublishDate.ToShortDateString()</span>
+                                                </div>
+                                                <div class="comment-content">
+                                                    @item.CommentText
+                                                </div>
+
+                                                <span class="comment-reply">
+                                                    <a class="comment-reply-link" href="#" value="@item.ParentComment_Id" id="@item.ParentComment_Id" onclick="ClickReplyButton(event, @item.Id)">Reply</a>
+                                                </span>
+                                            </div>
+                                            @if (Request.IsAuthenticated)
+                                            {
+                                                <p>
+                                                    @Html.ActionLink("Edit", "Edit", "Comments", new { id = item.Id }, new { @class = "" }) |
+                                                    @Html.ActionLink("Delete", "Delete", "Comments", new { id = item.Id }, new { @class = "" })
+                                                </p>
+                                            }
+
+                                            <div id="PlaceCommentForm_@item.Id">
+                                                @*Места для формы*@
+                                            </div>
+
+                                        </article>
+                                    }
+                                    @if (item.ParentComment_Id == null && item.ChildComments.Count > 0)
+                                    {
+                                        <article>
+                                            <div class="comment-avatar">
+                                                <img alt="Image" src="~/images/blog/comment1.png" class="avatar">
+                                            </div>
+                                            <div class="comment-body">
+                                                <div class="meta-data">
+
+                                                    <a href="#" class="comment-author">@item.Name</a>
+                                                    <span class="comment-date">@item.PublishDate.ToShortDateString()</span>
+                                                </div>
+                                                <div class="comment-content">
+                                                    @item.CommentText
+                                                </div>
+
+                                                <span class="comment-reply">
+                                                    <a class="comment-reply-link" href="#" value="@item.ParentComment_Id" id="@item.ParentComment_Id" onclick="ClickReplyButton(event, @item.Id)">Reply</a>
+                                                </span>
+                                            </div>
+                                            @if (Request.IsAuthenticated)
+                                            {
+                                                <p>
+                                                    @Html.ActionLink("Edit", "Edit", "Comments", new { id = item.Id }, new { @class = "" }) |
+                                                    @Html.ActionLink("Delete", "Delete", "Comments", new { id = item.Id }, new { @class = "" })
+                                                </p>
+                                            }
+
+                                            <div id="PlaceCommentForm_@item.Id">
+                                                @*Места для формы*@
+                                            </div>
+
+                                        </article>
+
+                                        <ol id="ReplyList_@item.Id">
+                                            @foreach (var i in Model.Comments)
+                                            {
+                                                <li>
+                                                    @if (i.ParentComment_Id == item.Id)
+                                                    {
+                                                        @*response to comment*@
+                                                        <article>
+                                                            <div class="comment-avatar">
+                                                                <img alt="Image" src="../../images/blog/comment2.png" class="avatar">
+                                                            </div>
+                                                            <div class="comment-body">
+                                                                <div class="meta-data">
+                                                                    <a href="#" class="comment-author">@i.Name</a>
+                                                                    <span class="comment-date">@i.PublishDate.ToShortDateString()</span>
+                                                                </div>
+                                                                <div class="comment-content">
+                                                                    @i.CommentText
+                                                                </div>
+                                                                @*<span class="comment-reply">
+                                                                        <a class="comment-reply-link" href="#">Reply</a>
+                                                                    </span>*@
+                                                            </div>
+                                                            @if (Request.IsAuthenticated)
+                                                            {
+                                                                <p>
+                                                                    @Html.ActionLink("Delete", "Delete", "Comments", new { id = i.Id }, new { @class = "" })
+                                                                </p>
+                                                            }
+                                                        </article>
+
+                                                        @*end response*@
+                                                    }
+                                                </li>
+                                            }
+                                        </ol>
+                                    }
+                                    else
+                                    {
+                                        <ol id="ReplyList_@item.Id">
+                                            </ol>
+                                    }
+                                </li>
+                            }
+
+                        </ol>
+                    </div>  @*class="comments-wrapper"*@
+
+                    <div id="respond" class="comment-respond">
+                        <h3 id="reply-title" class="comment-reply-title">Leave a comment</h3>
+                        @{
+                            Comment coment = new Comment();
+                            coment.Post_Id = Model.Id;
+                        }
+
+                        @Html.Partial("_CreateCommentPartial", coment)
+
+                    </div>
+                </div> @*class="comments-area"*@
+            </div>
+
+            @Html.Partial("_SideBar")
+        </div>
+    </div>
+</section>
+<script>
+    var LastIdCommentForm;
+    function ClickReplyButton(e, id) {
+        e.preventDefault();
+
+        $("#PlaceCommentForm_" + LastIdCommentForm).html('');
+        LastIdCommentForm = id;
+        
+        $("#PlaceCommentForm_" + id).html('<img style="width:100px" src="../../../images/loader.gif" />');
+
+        //alert('test')
+        $.ajax({
+            type: 'get',
+            url: '/Comments/CreateReplyCommentPartial/' + id,
+            success: function (result) {
+                //alert(result);
+                $("#PlaceCommentForm_" + id).html('');
+                $("#PlaceCommentForm_" + id).append(result);
+                
+            }
+        })
+    }
+
+    function DeleteCurrentReplyForm(e) {
+        e.preventDefault();
+        $("#PlaceCommentForm_" + LastIdCommentForm).html('');
+    }
+</script>
+
+
+

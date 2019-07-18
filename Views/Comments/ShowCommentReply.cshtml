@@ -1,0 +1,25 @@
+﻿@model MyBlog.Models.Comment
+
+<article>
+    <div class="comment-avatar">
+        <img alt="Image" src="../../images/blog/comment2.png" class="avatar">
+    </div>
+    <div class="comment-body">
+        <div class="meta-data">
+            <a href="#" class="comment-author">@Model.Name</a>
+            <span class="comment-date">@Model.PublishDate.ToShortDateString()</span>
+        </div>
+        <div class="comment-content">
+            @Model.CommentText
+        </div>
+        @*<span class="comment-reply">
+                <a class="comment-reply-link" href="#">Reply</a>
+            </span>*@
+    </div>
+    @if (Request.IsAuthenticated)
+    {
+        <p>
+            @Html.ActionLink("Delete", "Delete", "Comments", new { id = Model.Id }, new { @class = "" })
+        </p>
+    }
+</article>

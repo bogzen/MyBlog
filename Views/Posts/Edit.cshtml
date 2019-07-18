@@ -1,0 +1,124 @@
+﻿@model MyBlog.Models.Post
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script src="~/ckeditor/ckeditor.js"></script>
+<link href="~/css/select2.css" rel="stylesheet" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/js/select2.min.js"></script>
+<h2>Edit</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()    
+    <div class="form-horizontal">
+        <h4>Post</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.Id)
+        <div class="form-group">
+            @Html.LabelFor(model => model.Title, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Title, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Title, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2">Category</label>
+            <div class="col-md-10">
+                @Html.DropDownListFor(m=>m.Category.Id, ViewBag.Categories as SelectList, new { Name = "CategoryId"})
+                <script>
+            $("#CategoryId").val(@Model.Category.Id);
+                </script>
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.Image, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <input onchange="ImageUpload()" class="form-control text-box single-line" id="ImageUploader" type="file" value="">
+                <input type="hidden" id="Image" name="Image" value="@Model.Image"/>
+                @Html.ValidationMessageFor(model => model.Image, "", new { @class = "text-danger" })
+                <script>
+                    function ImageUpload() {
+                        var ArrayOfTagsWithIdImage = $("#ImageUploader");
+                        var ImageTag = ArrayOfTagsWithIdImage[0]                        
+                        var SelectedFile = ImageTag.files[0];                        
+                        //создаем виртуальную форму
+                        var VirtualForm = new FormData();
+                        //добавляем в вирт. форму пару ключ - значение
+                        VirtualForm.append(SelectedFile.name, SelectedFile)
+                        //if (SelectedFile.size)
+                        //выполняем ajax-запрос
+                        $.ajax({
+                            type: "POST",
+                            data: VirtualForm,
+                            url: "/Posts/ImageUpload",
+                            contentType: false,
+                            processData: false,
+                            success: function (result) //в result попадут данные от сервера
+                            {
+                                $("#PlaceShowImage").attr('src', '../../PostsImage/' + result);
+                                $("#Image").val(result);
+                            },
+                            error: function () {
+                                alert("Error");
+                            }
+                        })
+                    }
+                </script>
+                <img id="PlaceShowImage" src="~/PostsImage/@Model.Image" style="width:150px; height:auto" />
+
+            </div>
+        </div>        
+        <div class="form-group">
+            @Html.LabelFor(model => model.Description, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Description, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.PostText, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">                
+                @Html.TextAreaFor(model => model.PostText, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.PostText, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="control-label col-md-2">Tags</label>
+            <div class="col-md-10">
+                @Html.DropDownList("TagId", ViewBag.Tags as SelectList, "Выберите тег", new { multiple = "multiple" })
+
+                @for (int i = 0; i < Model.Tags.Count; i++)
+{
+            <script>
+            $("#TagId option[value='@Model.Tags.ToList()[i].Id']").attr("selected", "selected");
+            </script>
+            @*@Html.Raw("$(\"#TagId option[value='" + Model.Tags.ToList()[i].Id + "']\").attr(\"selected\",\"selected\");");*@
+}
+
+            </div>        
+                </div>
+                <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+<script>
+            // Replace the <textarea id="editor1"> with a CKEditor
+            // instance, using default configuration.
+            CKEDITOR.replace('PostText');
+            $(document).ready(function () {
+                $('#TagId').select2();
+            });
+</script>

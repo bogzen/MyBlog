@@ -1,0 +1,248 @@
+﻿@using MyBlog.Models
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+    <title>@ViewBag.Title</title>
+    <meta name="keywords" content="@ViewBag.Keywords">
+    <meta name="description" content="@ViewBag.Description">
+    <meta name="author" content="Profinomad">
+    <!-- Favicon -->
+    <!-- Картинку для вкладки-->
+    <link rel="shortcut icon" type="image/x-icon" href="~/images/favico.png" />
+    <!-- Fonts -->
+    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic%7CPlayball%7CMontserrat:400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Playfair+Display:400,400italic' rel='stylesheet' type='text/css'>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" type="text/css" href="~/vendors/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="~/vendors/bootstrap/css/bootstrap-theme.min.css">
+    <!-- Fontawesome -->
+    <link rel="stylesheet" type="text/css" href="~/vendors/font-awesome/css/font-awesome.min.css">
+    <!-- Swiper -->
+    <link rel="stylesheet" type="text/css" href="~/vendors/swiper/css/swiper.min.css">
+    <!-- Magnific-popup -->
+    <link rel="stylesheet" type="text/css" href="~/vendors/magnific-popup/magnific-popup.css">
+    <!-- Stylesheet -->
+    <link rel="stylesheet" type="text/css" href="~/style.css">
+    <link rel="stylesheet" type="text/css" href="~/css/welcome.css">
+    <!-- set options before less.js script -->
+    <link rel="stylesheet/less" type="text/css" href="~/less/style.less" />
+    <script>
+        less = {
+            env: "development",
+            async: false,
+            fileAsync: false,
+            poll: 1000,
+            functions: {},
+            dumpLineNumbers: "comments",
+            relativeUrls: false,
+            rootpath: "http://themeton/html/katharine/"
+        };
+    </script>
+    <script src="~/js/less.min.js"></script>
+    <script type="text/javascript" src="~/js/jquery.min.js"></script>
+</head>
+<body>
+    <div class="wrapper">
+
+        <header id="header" class="menu-top-center">
+            <div class="topbar">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <nav class="main-nav">
+                                <ul>
+                                    <li class="current-menu-item">
+                                        @*menu-item-has-children*@
+                                        @*<a href="index.html">Home</a>*@
+                                        <a href="~/Home/Index">Home</a>
+                                    </li>
+                                    <li class="menu-item-has-children">
+                                        <a href="~/Home/Destinations">Destinations</a>
+                                        <ul>
+                                            @*@foreach (var i in Category.GetCategories())
+                                                {
+                                                    <li><a href="~/Categories/Posts/@i.Id">@i.Title</a></li>
+                                                }*@
+
+                                            <li><a href="~/Categories/Posts/1">Europe</a></li>
+                                            <li><a href="~/Categories/Posts/2">Africa</a></li>
+                                            <li><a href="~/Categories/Posts/3">America</a></li>
+                                            <li><a href="~/Categories/Posts/4">Asia</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="~/Posts/Index">Blog</a></li>
+                                    <li class="menu-item-has-children">
+                                        <a href="~/Home/Travel_tips">Travel tips</a>
+                                        <ul>
+                                            <li><a href="~/Categories/Posts/5">Get inspired</a></li>
+                                            <li><a href="~/Categories/Posts/6">Planning a trip</a></li>
+                                            <li><a href="~/Categories/Posts/7">Cheap flights</a></li>
+                                            <li><a href="~/Categories/Posts/8">Accomodation</a></li>
+                                            @*<li><a href="~/Categories/Posts/9">Photography tips</a></li>*@
+                                        </ul>
+                                    </li>
+                                    <li @*class="menu-item-has-children"*@>
+                                        <a href="~/Home/About">About</a>
+                                    <li><a href="~/Home/Contact">Contact</a></li>
+
+                                    
+
+                                    @if (Request.IsAuthenticated)
+                                    {
+                                        @Html.Partial("_LoginPartial")
+                                    }
+                                </ul>
+
+                                <a href="~/javascript:;" id="close-menu"><i class="fa fa-close"></i></a>
+                            </nav>
+
+                            <div class="topbar-left-content">
+                                <div class="social-links">
+                                    <a href="https://www.facebook.com/profinomad/" target="_blank"><i class="fa fa-facebook"></i></a>
+                                    @*<a href="#"><i class="fa fa-youtube"></i></a>
+                                        <a href="#"><i class="fa fa-twitter"></i></a>*@
+                                    <a href="https://www.instagram.com/profinomad/" target="_blank"><i class="fa fa-instagram"></i></a>
+
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+
+                        <div class="header-wrapper">
+                            <a href="~/Home/Index" id="logo" title="Katharine" class="logo-image" data-bg-image="../../images/mylogo.jpg">Katharine</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+
+        @RenderBody()
+
+
+        <div class="footer-row">
+            <div class="row">
+                <div class="col-xs-4 col-sm-2">
+                    <img src="~/images/pages/fi1.png" alt="image">
+                </div>
+                <div class="col-xs-4 col-sm-2">
+                    <img src="~/images/pages/fi2.png" alt="image">
+                </div>
+                <div class="col-xs-4 col-sm-2">
+                    <img src="~/images/pages/fi3.png" alt="image">
+                </div>
+                <div class="col-xs-4 col-sm-2">
+                    <img src="~/images/pages/fi4.png" alt="image">
+                </div>
+                <div class="col-xs-4 col-sm-2">
+                    <img src="~/images/pages/fi5.png" alt="image">
+                </div>
+                <div class="col-xs-4 col-sm-2">
+                    <img src="~/images/pages/fi6.png" alt="image">
+                </div>
+            </div>
+            <div class="fi-caption">
+                FOLLOW US ON  <a href="#"><i class="fa fa-instagram"></i> INSTAGRAM</a>
+            </div>
+        </div>
+        <footer id="footer" class="footer-dark-topmenu">
+
+            <div class="footer-menu-container">
+                <div class="containers">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="footer-menu">
+                                <ul>
+                                    <li><a href="~/Home/Index">Home</a></li>
+                                    <li><a href="~/Home/Destinations">Destinations</a></li>
+                                    <li><a href="~/Posts/Index">BLOG</a></li>
+                                    <li><a href="~/Home/About">About</a></li>
+                                    <li><a href="~/Home/Contact">Contact</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container footer-container">
+                @*<div class="row">
+                        <div class="col-sm-6 col-md-3">
+
+                            <div class="widget">
+                                <p>
+                                    <img src="../../images/logo-white.svg" data-width="148px" alt="svg logo">
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 text-center">
+
+                            <div class="widget widget-subscribe-form">
+                                <h5 class="widget-title">Subscribe Now</h5>
+                                <div class="subscribe-form">
+                                    <form>
+                                        <input type="text" placeholder="Email">
+                                        <button type="submit"><i class="fa fa-send-o"></i></button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-3 text-right">
+                            <div class="widget">
+                                <div class="social-links">
+                                    <a href="https://www.facebook.com/profitraveller/" target="_blank"><i class="fa fa-facebook"></i></a>
+                                    <a href="#"><i class="fa fa-youtube"></i></a>
+                                    <a href="#"><i class="fa fa-twitter"></i></a>
+                                    <a href="https://www.instagram.com/profinomad/" target="_blank"><i class="fa fa-instagram"></i></a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>*@
+
+                <div class="row copyright-text">
+                    <div class="col-sm-12 text-center">
+                        <div class="widget footer-cp-text">
+                            <p>&copy; Copyrights 2018 Profinomad. All rights reserved</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+    </div>
+    <!-- Overlay Search -->
+    <div id="overlay-search">
+        <form method="get" action="./">
+            <input type="text" name="s" placeholder="Search..." autocomplete="off">
+            <button type="submit">
+                <i class="fa fa-search"></i>
+            </button>
+            <p>Begin typing and hit enter to search...</p>
+        </form>
+        <a href="javascript:;" class="close-search"></a>
+    </div>
+
+    <!-- Include jQuery and Scripts -->
+
+    <script type="text/javascript" src="~/vendors/bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="~/vendors/jquery.waypoints.min.js"></script>
+    <script type="text/javascript" src="~/vendors/isotope.pkgd.min.js"></script>
+    <!-- Swiper -->
+    <script type="text/javascript" src="~/vendors/swiper/js/swiper.min.js"></script>
+    <!-- Magnific-popup -->
+    <script type="text/javascript" src="~/vendors/magnific-popup/jquery.magnific-popup.min.js"></script>
+    <script type="text/javascript" src="~/js/scripts.js"></script>
+
+</body>
+</html>
+

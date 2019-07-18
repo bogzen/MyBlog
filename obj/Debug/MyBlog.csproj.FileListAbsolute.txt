@@ -1,0 +1,719 @@
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\ApplicationInsights.config
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\MyBlog.dll.config
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\MyBlog.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\MyBlog.pdb
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Antlr3.Runtime.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\EntityFramework.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.AI.Web.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.Owin.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.Owin.Security.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Newtonsoft.Json.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Owin.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\System.Web.Helpers.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\System.Web.Mvc.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\System.Web.Optimization.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\System.Web.Razor.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\System.Web.WebPages.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\WebGrease.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\System.Web.Helpers.xml
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\System.Web.Mvc.xml
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\System.Web.Optimization.xml
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\System.Web.Razor.xml
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\System.Web.WebPages.xml
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Antlr3.Runtime.pdb
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Newtonsoft.Json.xml
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\EntityFramework.xml
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.Owin.xml
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.Owin.Security.xml
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\bin\Microsoft.AI.Web.xml
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\obj\Debug\MyBlog.csprojResolveAssemblyReference.cache
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\obj\Debug\MyBlog.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\obj\Debug\MyBlog.dll
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\obj\Debug\MyBlog.pdb
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.CreateAuthorization.resources
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\obj\Debug\MyBlog.csproj.GenerateResource.Cache
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddPostCategoryTag.resources
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddTagsFieldtoViews.resources
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCategory.resources
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddSubCategories.resources
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.ParentCategoryUpdateDB.resources
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCategoryId.resources
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\ApplicationInsights.config
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\MyBlog.dll.config
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\MyBlog.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\MyBlog.pdb
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Antlr3.Runtime.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\EntityFramework.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.AI.Web.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.Owin.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.Owin.Security.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Newtonsoft.Json.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Owin.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\System.Web.Helpers.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\System.Web.Mvc.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\System.Web.Optimization.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\System.Web.Razor.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\System.Web.WebPages.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\WebGrease.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\System.Web.Helpers.xml
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\System.Web.Mvc.xml
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\System.Web.Optimization.xml
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\System.Web.Razor.xml
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\System.Web.WebPages.xml
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Antlr3.Runtime.pdb
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Newtonsoft.Json.xml
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\EntityFramework.xml
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.Owin.xml
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.Owin.Security.xml
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\bin\Microsoft.AI.Web.xml
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\obj\Debug\MyBlog.csprojResolveAssemblyReference.cache
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.CreateAuthorization.resources
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddPostCategoryTag.resources
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddTagsFieldtoViews.resources
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCategory.resources
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddSubCategories.resources
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.ParentCategoryUpdateDB.resources
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCategoryId.resources
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\obj\Debug\MyBlog.csproj.GenerateResource.Cache
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\obj\Debug\MyBlog.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\obj\Debug\MyBlog.dll
+C:\Users\Marina\Desktop\тревел\Backup\latest\MyBlog\MyBlog\obj\Debug\MyBlog.pdb
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddComments.resources
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.RemoveDateInCommentModel.resources
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentComment.resources
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCommentAttempt2.resources
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCommentAttempt3.resources
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddForeignKeyPost.resources
+C:\Users\Marina\Desktop\тревел\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddPublishDate.resources
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\ApplicationInsights.config
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\MyBlog.dll.config
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\MyBlog.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\MyBlog.pdb
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Antlr3.Runtime.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\EntityFramework.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AI.Web.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Security.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Newtonsoft.Json.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Owin.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\System.Web.Helpers.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\System.Web.Mvc.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\System.Web.Optimization.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\System.Web.Razor.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\System.Web.WebPages.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\WebGrease.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\System.Web.Helpers.xml
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\System.Web.Mvc.xml
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\System.Web.Optimization.xml
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\System.Web.Razor.xml
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\System.Web.WebPages.xml
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Antlr3.Runtime.pdb
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Newtonsoft.Json.xml
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\EntityFramework.xml
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.xml
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Security.xml
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AI.Web.xml
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.csprojResolveAssemblyReference.cache
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.CreateAuthorization.resources
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddPostCategoryTag.resources
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddTagsFieldtoViews.resources
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCategory.resources
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddSubCategories.resources
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.ParentCategoryUpdateDB.resources
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCategoryId.resources
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddComments.resources
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.RemoveDateInCommentModel.resources
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentComment.resources
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCommentAttempt2.resources
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCommentAttempt3.resources
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddForeignKeyPost.resources
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddPublishDate.resources
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.csproj.GenerateResource.Cache
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.dll
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.pdb
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.csproj.CopyComplete
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.DateTimeNullable.resources
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.DelNullFromDateTime.resources
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddForeignKeyParentComment.resources
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddChildComments_List.resources
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\ApplicationInsights.config
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\MyBlog.dll.config
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\MyBlog.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\MyBlog.pdb
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Antlr3.Runtime.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\EntityFramework.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AI.Web.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Security.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Newtonsoft.Json.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Owin.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\System.Web.Helpers.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\System.Web.Mvc.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\System.Web.Optimization.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\System.Web.Razor.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\System.Web.WebPages.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\WebGrease.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\System.Web.Helpers.xml
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\System.Web.Mvc.xml
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\System.Web.Optimization.xml
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\System.Web.Razor.xml
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\System.Web.WebPages.xml
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Antlr3.Runtime.pdb
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Newtonsoft.Json.xml
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\EntityFramework.xml
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.xml
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Security.xml
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\bin\Microsoft.AI.Web.xml
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.csprojResolveAssemblyReference.cache
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.CreateAuthorization.resources
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddPostCategoryTag.resources
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddTagsFieldtoViews.resources
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCategory.resources
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddSubCategories.resources
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.ParentCategoryUpdateDB.resources
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCategoryId.resources
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddComments.resources
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.RemoveDateInCommentModel.resources
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentComment.resources
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCommentAttempt2.resources
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCommentAttempt3.resources
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddForeignKeyPost.resources
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddPublishDate.resources
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.DateTimeNullable.resources
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.DelNullFromDateTime.resources
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddForeignKeyParentComment.resources
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddChildComments_List.resources
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.csproj.GenerateResource.cache
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.csproj.CopyComplete
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.dll
+C:\Users\Marina\Desktop\backup-01.04.2018\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.pdb
+C:\Users\Marina\Desktop\BlogForGIT\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.MoveToHostingProviderName.resources
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\ApplicationInsights.config
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\MyBlog.dll.config
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\MyBlog.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\MyBlog.pdb
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Antlr3.Runtime.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\EntityFramework.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.AI.Web.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.Owin.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.Owin.Security.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Newtonsoft.Json.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Owin.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\System.Web.Helpers.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\System.Web.Mvc.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\System.Web.Optimization.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\System.Web.Razor.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\System.Web.WebPages.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\WebGrease.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\System.Web.Helpers.xml
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\System.Web.Mvc.xml
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\System.Web.Optimization.xml
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\System.Web.Razor.xml
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\System.Web.WebPages.xml
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Antlr3.Runtime.pdb
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Newtonsoft.Json.xml
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\EntityFramework.xml
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.Owin.xml
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.Owin.Security.xml
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\bin\Microsoft.AI.Web.xml
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\obj\Debug\MyBlog.csprojResolveAssemblyReference.cache
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.CreateAuthorization.resources
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddPostCategoryTag.resources
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddTagsFieldtoViews.resources
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCategory.resources
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddSubCategories.resources
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.ParentCategoryUpdateDB.resources
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCategoryId.resources
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddComments.resources
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.RemoveDateInCommentModel.resources
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentComment.resources
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCommentAttempt2.resources
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCommentAttempt3.resources
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddForeignKeyPost.resources
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddPublishDate.resources
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.DateTimeNullable.resources
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.DelNullFromDateTime.resources
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddForeignKeyParentComment.resources
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddChildComments_List.resources
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.MoveToHostingProviderName.resources
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\obj\Debug\MyBlog.csproj.GenerateResource.cache
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\obj\Debug\MyBlog.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\obj\Debug\MyBlog.csproj.CopyComplete
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\obj\Debug\MyBlog.dll
+C:\Users\Marina\Desktop\BLOG-HOSTING — копия\MyBlog\MyBlog\obj\Debug\MyBlog.pdb
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\ApplicationInsights.config
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\MyBlog.dll.config
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\MyBlog.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\MyBlog.pdb
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Antlr3.Runtime.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\EntityFramework.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AI.Web.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Security.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Newtonsoft.Json.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Owin.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\System.Web.Helpers.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\System.Web.Mvc.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\System.Web.Optimization.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\System.Web.Razor.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\System.Web.WebPages.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\WebGrease.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\System.Web.Helpers.xml
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\System.Web.Mvc.xml
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\System.Web.Optimization.xml
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\System.Web.Razor.xml
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\System.Web.WebPages.xml
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Antlr3.Runtime.pdb
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Newtonsoft.Json.xml
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\EntityFramework.xml
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.xml
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Security.xml
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AI.Web.xml
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.csprojResolveAssemblyReference.cache
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.CreateAuthorization.resources
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddPostCategoryTag.resources
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddTagsFieldtoViews.resources
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCategory.resources
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddSubCategories.resources
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.ParentCategoryUpdateDB.resources
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCategoryId.resources
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddComments.resources
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.RemoveDateInCommentModel.resources
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentComment.resources
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCommentAttempt2.resources
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCommentAttempt3.resources
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddForeignKeyPost.resources
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddPublishDate.resources
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.DateTimeNullable.resources
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.DelNullFromDateTime.resources
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddForeignKeyParentComment.resources
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddChildComments_List.resources
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.MoveToHostingProviderName.resources
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.csproj.GenerateResource.cache
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.csproj.CopyComplete
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.dll
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.pdb
+C:\Users\Marina\Desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddAttrRequiredEmail.resources
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\ApplicationInsights.config
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\MyBlog.dll.config
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\MyBlog.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\MyBlog.pdb
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Antlr3.Runtime.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\EntityFramework.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AI.Web.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Security.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Newtonsoft.Json.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Owin.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\System.Web.Helpers.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\System.Web.Mvc.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\System.Web.Optimization.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\System.Web.Razor.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\System.Web.WebPages.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\WebGrease.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\System.Web.Helpers.xml
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\System.Web.Mvc.xml
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\System.Web.Optimization.xml
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\System.Web.Razor.xml
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\System.Web.WebPages.xml
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Antlr3.Runtime.pdb
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Newtonsoft.Json.xml
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\EntityFramework.xml
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.xml
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Security.xml
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\bin\Microsoft.AI.Web.xml
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.csprojAssemblyReference.cache
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.CreateAuthorization.resources
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddPostCategoryTag.resources
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddTagsFieldtoViews.resources
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCategory.resources
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddSubCategories.resources
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.ParentCategoryUpdateDB.resources
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCategoryId.resources
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddComments.resources
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.RemoveDateInCommentModel.resources
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentComment.resources
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCommentAttempt2.resources
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCommentAttempt3.resources
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddForeignKeyPost.resources
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddPublishDate.resources
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.DateTimeNullable.resources
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.DelNullFromDateTime.resources
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddForeignKeyParentComment.resources
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddChildComments_List.resources
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.MoveToHostingProviderName.resources
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.Migrations.AddAttrRequiredEmail.resources
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.csproj.GenerateResource.cache
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.csproj.CopyComplete
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.dll
+C:\Users\Marina\Desktop\all\folders_desktop\MY_BLOG\BLOG_LOCALHOST_DB\MyBlog\MyBlog\obj\Debug\MyBlog.pdb
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\ApplicationInsights.config
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\MyBlog.dll.config
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\MyBlog.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\MyBlog.pdb
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Antlr3.Runtime.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\EntityFramework.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.AI.Web.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.Owin.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.Owin.Security.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Newtonsoft.Json.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Owin.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\System.Web.Helpers.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\System.Web.Mvc.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\System.Web.Optimization.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\System.Web.Razor.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\System.Web.WebPages.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\WebGrease.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\System.Web.Helpers.xml
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\System.Web.Mvc.xml
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\System.Web.Optimization.xml
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\System.Web.Razor.xml
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\System.Web.WebPages.xml
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Antlr3.Runtime.pdb
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Newtonsoft.Json.xml
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\EntityFramework.xml
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.Owin.xml
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.Owin.Security.xml
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Marina\Desktop\My_Blog\MyBlog\bin\Microsoft.AI.Web.xml
+C:\Users\Marina\Desktop\My_Blog\MyBlog\obj\Debug\MyBlog.csprojAssemblyReference.cache
+C:\Users\Marina\Desktop\My_Blog\MyBlog\obj\Debug\MyBlog.Migrations.CreateAuthorization.resources
+C:\Users\Marina\Desktop\My_Blog\MyBlog\obj\Debug\MyBlog.Migrations.AddPostCategoryTag.resources
+C:\Users\Marina\Desktop\My_Blog\MyBlog\obj\Debug\MyBlog.Migrations.AddTagsFieldtoViews.resources
+C:\Users\Marina\Desktop\My_Blog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCategory.resources
+C:\Users\Marina\Desktop\My_Blog\MyBlog\obj\Debug\MyBlog.Migrations.AddSubCategories.resources
+C:\Users\Marina\Desktop\My_Blog\MyBlog\obj\Debug\MyBlog.Migrations.ParentCategoryUpdateDB.resources
+C:\Users\Marina\Desktop\My_Blog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCategoryId.resources
+C:\Users\Marina\Desktop\My_Blog\MyBlog\obj\Debug\MyBlog.Migrations.AddComments.resources
+C:\Users\Marina\Desktop\My_Blog\MyBlog\obj\Debug\MyBlog.Migrations.RemoveDateInCommentModel.resources
+C:\Users\Marina\Desktop\My_Blog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentComment.resources
+C:\Users\Marina\Desktop\My_Blog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCommentAttempt2.resources
+C:\Users\Marina\Desktop\My_Blog\MyBlog\obj\Debug\MyBlog.Migrations.AddParentCommentAttempt3.resources
+C:\Users\Marina\Desktop\My_Blog\MyBlog\obj\Debug\MyBlog.Migrations.AddForeignKeyPost.resources
+C:\Users\Marina\Desktop\My_Blog\MyBlog\obj\Debug\MyBlog.Migrations.AddPublishDate.resources
+C:\Users\Marina\Desktop\My_Blog\MyBlog\obj\Debug\MyBlog.Migrations.DateTimeNullable.resources
+C:\Users\Marina\Desktop\My_Blog\MyBlog\obj\Debug\MyBlog.Migrations.DelNullFromDateTime.resources
+C:\Users\Marina\Desktop\My_Blog\MyBlog\obj\Debug\MyBlog.Migrations.AddForeignKeyParentComment.resources
+C:\Users\Marina\Desktop\My_Blog\MyBlog\obj\Debug\MyBlog.Migrations.AddChildComments_List.resources
+C:\Users\Marina\Desktop\My_Blog\MyBlog\obj\Debug\MyBlog.Migrations.MoveToHostingProviderName.resources
+C:\Users\Marina\Desktop\My_Blog\MyBlog\obj\Debug\MyBlog.Migrations.AddAttrRequiredEmail.resources
+C:\Users\Marina\Desktop\My_Blog\MyBlog\obj\Debug\MyBlog.csproj.GenerateResource.cache
+C:\Users\Marina\Desktop\My_Blog\MyBlog\obj\Debug\MyBlog.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\My_Blog\MyBlog\obj\Debug\MyBlog.csproj.CopyComplete
+C:\Users\Marina\Desktop\My_Blog\MyBlog\obj\Debug\MyBlog.dll
+C:\Users\Marina\Desktop\My_Blog\MyBlog\obj\Debug\MyBlog.pdb

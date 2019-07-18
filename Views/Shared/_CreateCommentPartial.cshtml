@@ -1,0 +1,88 @@
+﻿@model MyBlog.Models.Comment
+
+@using (Html.BeginForm("Create", "Comments", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <input type="hidden" name="Post_Id" id="Post_Id" value="@Model.Post_Id" />
+    @*@Html.HiddenFor(model => model.Post_Id)*@
+    <div class="form-horizontal">
+
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control", @placeholder = "Your name *", @required = "required" } })
+                @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control", @placeholder = "Your E-mail *", @required="required"@*, @onsubmit = "setCookie(@Model.Name, @Model.Email, 30)"*@ } })
+                @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CommentText, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextAreaFor(model => model.CommentText, new { @class = "form-control", @placeholder = "Comment *", @required="required" })
+                @Html.ValidationMessageFor(model => model.CommentText, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        
+
+        @*
+        <form method="post" id="commentform" class="comment-form" novalidate="">
+            <div class="row">
+                <p class="comment-form-author col-sm-6">
+                        <input id="author" name=@item.Name type="text" value="" size="30" placeholder="Your Name *">
+                   </p>
+                <p class="comment-form-email col-sm-6">
+                    <input id="email" name=@item.Email type="email" value="" size="30" placeholder="Your E-mail *">
+                   </p>
+            </div>
+            <p class="comment-form-comment">
+                <textarea id="comment" name=@item.CommentText placeholder="Comments"></textarea>
+            </p>
+            <p class="form-submit">
+                <span>The required fields have * symbols</span>
+                <input name="submit" type="submit" id="submit" class="submit" value="Post Comment"> <input type="hidden" name="comment_post_ID" value="1" id="comment_post_ID">
+            </p>
+        </form>
+        *@
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Post Comment" @*class="btn btn-default"*@ />
+            </div>
+        </div>
+    </div>
+}
+
+<script>
+    function setCookie(name, value, days) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + (value || "") + expires + "; path=/";
+    }
+    function getCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+    function eraseCookie(name) {
+        document.cookie = name + '=; Max-Age=-99999999;';
+    }
+    </script>

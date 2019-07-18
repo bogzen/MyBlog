@@ -1,0 +1,52 @@
+﻿@model IEnumerable<MyBlog.Models.Post>
+
+@{
+    foreach (var item in Model)
+    {
+        ViewBag.Title = item.Category.Title;
+      
+    }    
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="section-content">
+
+    <div class="container">
+        
+        <div class="row blog-grid-row">
+
+            @foreach (var item in Model)
+            {                
+                <div class="col-sm-6 col-md-4">
+                    <article class="blog-item">
+
+                        <div class="entry-media">
+                            <a href="javascript:;" class="el-link">
+                                <img id="PlaceShowImage" src="~/PostsImage/@item.Image" style="width:500px; height:auto" />
+                                <div class="entry-overlay"></div>
+                            </a>
+                        </div>
+
+                        <div class="entry-date">                            
+                            <img src="~/images/svg/clock.svg" alt="clock icon" class="icon-clock">
+                            <span>@item.PublishDate.ToShortDateString()  -  @item.Category.Title</span>                            
+                        </div>
+                        <h2 class="post-title">
+                            @Html.DisplayFor(modelItem => item.Title)
+                        </h2>
+
+                        <div class="entry-excerpt text-center">
+                            <p>
+                                @Html.DisplayFor(modelItem => item.Description)
+                            </p>
+                            <br>
+                            <a href="~/Posts/Details/@item.Id" class="button button-fill button-bordered button-small">Read More</a>
+                        </div>
+                        <div class="seperator"><span></span></div>
+                    </article>
+                </div>
+
+            }
+        </div>
+    </div>
+</section>

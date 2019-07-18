@@ -1,0 +1,78 @@
+﻿@model MyBlog.Models.Comment
+
+@using (Html.BeginForm("CreateReplyCommentPartial", "Comments", FormMethod.Post, new { Id="CommentReplyForm"}))
+{
+    @Html.AntiForgeryToken()
+    <input type="hidden" name="ParentComment_Id" id="ParentComment_Id" value="@Model.ParentComment_Id" />
+    
+    <div class="form-horizontal">
+        
+        <div class="comment-body" style = "margin-top: 3px">
+        <span class="comment-reply">
+            <a class="comment-reply-link" href="#" onclick="DeleteCurrentReplyForm(event)">Cancel reply</a>
+        </span>
+          </div>  
+            
+        @*<a href="#" onclick="DeleteCurrentReplyForm(event)">Cancel reply</a>*@
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control", @placeholder = "Your name *" } })
+                @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+            </div>            
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control", @placeholder = "Your E-mail *" } })
+                @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CommentText, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextAreaFor(model => model.CommentText, new { @class = "form-control", @placeholder = "Comment *" })
+                @Html.ValidationMessageFor(model => model.CommentText, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+<script>
+    var frm = $('#CommentReplyForm');
+    frm.submit(function () {
+        event.preventDefault();
+        //alert('submit fired');
+        var data = frm.serialize();
+        //alert(data);
+        $.ajax({
+            type: 'post',
+            url: frm.attr('action'),
+            data: data,
+
+            success: function(result)
+            {  
+
+                $('#PlaceCommentForm_@Model.ParentComment_Id').html('');
+
+                $('#ReplyList_@Model.ParentComment_Id').append(result);
+                //alert('success');
+            },
+            error: function () {
+
+                alert('error');
+            }
+
+        })
+    })
+    </script>
